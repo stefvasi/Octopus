@@ -11,6 +11,4 @@ The project explores the design and development of an open-ended, modular hardwa
 
 The interface is designed for seamless integration with the **"Dark Sonification"** framework to create a comprehensive multi-modal data exploration environment.
 
-![Screenshot of the Dark Sonification software interface/visualization](path/to/your/software_screenshot.png)
-
 ---
