@@ -15,3 +15,6 @@ venv/
 .vscode/
 .idea/
 *.swp
+
+# Local-only 3D models (kept on disk, not published)
+3D_models/Palmstick_*.3mf
